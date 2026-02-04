@@ -82,6 +82,36 @@
         <mxCell id="elwewmhEv2fQjM54BA1W-21" connectable="0" parent="elwewmhEv2fQjM54BA1W-20" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" value="UI" vertex="1">
           <mxGeometry relative="1" x="-1" as="geometry" />
         </mxCell>
+        <mxCell id="elwewmhEv2fQjM54BA1W-22" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="250" y="320" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elwewmhEv2fQjM54BA1W-23" connectable="0" parent="elwewmhEv2fQjM54BA1W-22" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" value="RequestInteger" vertex="1">
+          <mxGeometry relative="1" x="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="elwewmhEv2fQjM54BA1W-24" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elwewmhEv2fQjM54BA1W-25" connectable="0" parent="elwewmhEv2fQjM54BA1W-24" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" value="ReturnInteger" vertex="1">
+          <mxGeometry relative="1" x="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="elwewmhEv2fQjM54BA1W-27" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="Integer">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570.5" y="360" as="sourcePoint" />
+            <mxPoint x="410" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="elwewmhEv2fQjM54BA1W-28" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="Integer">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410.5" y="379" as="sourcePoint" />
+            <mxPoint x="250" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
